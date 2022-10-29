@@ -21,7 +21,7 @@ go install
 
 ```
 
-hugh generate | hush encrypt > password.txt
+hugh generate | hugh encrypt > password.txt
 
 ```
 
